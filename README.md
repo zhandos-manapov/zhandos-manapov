@@ -4,15 +4,16 @@
 - 📫 zandosmanapov@gmail.com
 
 Checkout my projects: 
+
 https://drive.google.com/file/d/1yHiTdoaZhVOlF5siJGPhE3IzDck0oHMS/view
 
 Links:
 
-Restaurant Management System
-Frontend (Angular):
-Source: https://github.com/zhandos-manapov/restaurant-management-system-frontend
-Backend (Express):
-Source: https://github.com/zhandos-manapov/restaurant-management-system-prod
+Restaurant Management System <br>
+Frontend (Angular): <br>
+Source: https://github.com/zhandos-manapov/restaurant-management-system-frontend <br>
+Backend (Express): <br>
+Source: https://github.com/zhandos-manapov/restaurant-management-system-prod <br>
 
 Recipe Book
 Frontend (Angular):
