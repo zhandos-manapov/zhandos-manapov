@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zhandos
 - 👀 I’m interested in WebApp development
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning dotnet webapi
 - 📫 zandosmanapov@gmail.com
 
 ## Resume
