@@ -4,7 +4,7 @@
 - 📫 zandosmanapov@gmail.com
 
 ## Resume
-https://drive.google.com/file/d/1VN7pmW3eYdSKXcgk085zhhRuZg_Z8elG/view?usp=sharing
+https://drive.google.com/file/d/1DPSAeAo0PQKrQGSlyVp-1cu2zz_-3WZh/view?usp=sharing
 
 ## Checkout my projects: 
 ### Links:
