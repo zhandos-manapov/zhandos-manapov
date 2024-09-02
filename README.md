@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning dotnet webapi
 - 📫 zandosmanapov@gmail.com
 
-## Resume
-https://drive.google.com/file/d/1AIO-DrHWoU-vZHN8HD3XQURPrlm41Shz/view?usp=sharing
-
 ## Checkout my projects: 
 ### Links:
 
