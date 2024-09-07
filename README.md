@@ -1,10 +1,15 @@
 - 👋 Hi, I’m Zhandos
 - 👀 I’m interested in WebApp development
-- 🌱 I’m currently learning dotnet webapi
+- 🌱 I’m currently learning NestJS
 - 📫 zandosmanapov@gmail.com
 
 ## Checkout my projects: 
 ### Links:
+
+#### Calendar App
+Angular: <br>
+Source: https://github.com/zhandos-manapov/calendar <br>
+Website: https://coruscating-zabaione-90ad31.netlify.app
 
 #### Restaurant Management System
 Frontend (Angular): <br>
